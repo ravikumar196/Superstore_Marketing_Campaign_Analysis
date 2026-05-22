@@ -41,6 +41,7 @@ This project analyses ~2,200 customers across 22 features to answer:
 See `folder-structure.txt` for the full layout.
 
 https://github.com/ravikumar196/Capstone-Project-Superstore-Gold-Membership-Campaign-Analysis/blob/main/SuperStoreData_Dashboard_R!.pbix
+
 ---
 
 ## 📊 Dashboard
@@ -51,6 +52,7 @@ Three-page interactive Power BI dashboard:
 3. **Marketing & Channel Analysis** — Response rates by marital status & age, top campaign table
 
 [Dashboard Screenshots.pdf](https://github.com/ravikumar196/Capstone-Project-Superstore-Gold-Membership-Campaign-Analysis/blob/main/Dashboard%20Screenshots.pdf)
+
 
 ---
 
@@ -79,6 +81,7 @@ Source: Career247 Data Analytics with GenAI — Capstone Dataset
 ~2,200 customers · 22 features · Response flag as target variable
 
 https://github.com/ravikumar196/Capstone-Project-Superstore-Gold-Membership-Campaign-Analysis/blob/main/Cleaned_SuperStore_Data.csv
+
 ---
 
 ## 👤 Author
