@@ -76,7 +76,7 @@ Dashboard Screenshots.pdf
 
 Source: Career247 Data Analytics with GenAI — Capstone Dataset
 ~2,200 customers · 22 features · Response flag as target variable
-
+https://github.com/ravikumar196/Capstone-Project-Superstore-Gold-Membership-Campaign-Analysis/blob/main/Cleaned_SuperStore_Data.csv
 ---
 
 ## 👤 Author
