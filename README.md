@@ -49,9 +49,7 @@ Three-page interactive Power BI dashboard:
 2. **Spending** — Product category breakdown, spend by recency, income vs spend scatter
 3. **Marketing & Channel Analysis** — Response rates by marital status & age, top campaign table
 
-![Overview Dashboard](assets/screenshots/overview.png)
-![Spending Dashboard](assets/screenshots/spending.png)
-![Marketing Dashboard](assets/screenshots/marketing_channel.png)
+Dashboard Screenshots.pdf
 
 ---
 
