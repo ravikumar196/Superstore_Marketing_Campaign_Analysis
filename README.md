@@ -39,7 +39,7 @@ This project analyses ~2,200 customers across 22 features to answer:
 ## 📂 Project Structure
 
 See `folder-structure.txt` for the full layout.
-
+https://github.com/ravikumar196/Capstone-Project-Superstore-Gold-Membership-Campaign-Analysis/blob/main/SuperStoreData_Dashboard_R!.pbix
 ---
 
 ## 📊 Dashboard
@@ -49,7 +49,7 @@ Three-page interactive Power BI dashboard:
 2. **Spending** — Product category breakdown, spend by recency, income vs spend scatter
 3. **Marketing & Channel Analysis** — Response rates by marital status & age, top campaign table
 
-Dashboard Screenshots.pdf
+[Dashboard Screenshots.pdf](https://github.com/ravikumar196/Capstone-Project-Superstore-Gold-Membership-Campaign-Analysis/blob/main/Dashboard%20Screenshots.pdf)
 
 ---
 
@@ -82,4 +82,4 @@ https://github.com/ravikumar196/Capstone-Project-Superstore-Gold-Membership-Camp
 ## 👤 Author
 
 **[Ravi kumar]**
-[LinkedIn](https:www.linkedin.com/in/ravi-kumar-13b322236) · [GitHub](https://github.com/yourusername)
+[LinkedIn](www.linkedin.com/in/ravi-kumar-13b322236) · [GitHub](ravikumar196)
