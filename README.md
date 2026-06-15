@@ -24,15 +24,15 @@ This end-to-end marketing analytics project evaluates the effectiveness of a Gol
 
 **Page 1 – Executive Overview**
 
-![Executive Overview](https://github.com/ravikumar196/PowerBI-Projects/blob/main/Pizza-Sales-Analysis/Screenshot%202026-06-15%20124935.png)
+![Customer Spending Analysis](https://github.com/ravikumar196/Superstore_Marketing_Campaign_Analysis/blob/main/Image%202.png)
 
 **Page 2 – Customer Spending Analysis**
 
-![Customer Spending Analysis](https://github.com/ravikumar196/PowerBI-Projects/blob/main/Pizza-Sales-Analysis/Screenshot%202026-06-15%20124843.png)
+![Executive Overview](https://github.com/ravikumar196/Superstore_Marketing_Campaign_Analysis/blob/main/Image%201.png)
 
 **Page 3 – Marketing & Campaign Analysis**
 
-![Marketing & Campaign Analysis]()
+![Marketing & Campaign Analysis](https://github.com/ravikumar196/Superstore_Marketing_Campaign_Analysis/blob/main/Image%203.png)
 
 ---
 
