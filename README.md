@@ -24,24 +24,15 @@ This end-to-end marketing analytics project evaluates the effectiveness of a Gol
 
 **Page 1 – Executive Overview**
 
-* Campaign KPIs
-* Customer Income Distribution
-* Membership Response Analysis
-* Purchase Channel Performance
+![Executive Overview](https://github.com/ravikumar196/PowerBI-Projects/blob/main/Pizza-Sales-Analysis/Screenshot%202026-06-15%20124935.png)
 
 **Page 2 – Customer Spending Analysis**
 
-* Product Category Performance
-* Income vs Spending Analysis
-* Recency vs Spending Trends
-* Customer Value Segmentation
+![Customer Spending Analysis](https://github.com/ravikumar196/PowerBI-Projects/blob/main/Pizza-Sales-Analysis/Screenshot%202026-06-15%20124843.png)
 
 **Page 3 – Marketing & Campaign Analysis**
 
-* Response Rate by Age Group
-* Response Rate by Marital Status
-* Campaign Performance Metrics
-* Customer Conversion Insights
+![Marketing & Campaign Analysis]()
 
 ---
 
