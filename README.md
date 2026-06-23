@@ -8,13 +8,13 @@ This end-to-end marketing analytics project evaluates the effectiveness of a Gol
 
 ## 📂 2. Project Asset Matrix
 
-| Asset Group                  | Technical Scope & Deliverables                                                                                           |                                                                        Direct Access Link                                                                       |
-| :--------------------------- | :----------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 📊 **Cleaned Dataset**       | Processed customer-level dataset containing demographics, spending behavior, campaign responses, and purchasing channels |     [Open CSV Dataset](https://github.com/ravikumar196/Capstone-Project-Superstore-Gold-Membership-Campaign-Analysis/blob/main/Cleaned_SuperStore_Data.csv)     |
-| 🐍 **Python Analysis**       | Exploratory Data Analysis (EDA), statistical testing, feature analysis, and predictive modeling workflows                |   [Python EDA File](https://github.com/ravikumar196/Superstore_Marketing_Campaign_Analysis/blob/main/Superstore_Marketing_CampaignAnalysis.ipynb)                                                                        |
-| 📊 **Power BI Dashboard**    | Interactive dashboard providing customer segmentation, spending analysis, and campaign performance insights              | [Open Dashboard File](https://github.com/ravikumar196/Capstone-Project-Superstore-Gold-Membership-Campaign-Analysis/blob/main/SuperStoreData_Dashboard_R!.pbix) |
-| 📸 **Dashboard Screenshots** | Multi-page dashboard screenshots documenting all visual analytics and business insights                                  |    [View Dashboard PDF](https://github.com/ravikumar196/Capstone-Project-Superstore-Gold-Membership-Campaign-Analysis/blob/main/Dashboard%20Screenshots.pdf)    |
-| 📄 **Key Findings Report** | Executive summary of marketing insights, segment-wise conversion breakdowns, and visual data discovery matrices | [FindingS Report PDF](https://github.com/ravikumar196/Capstone-Project-Superstore-Gold-Membership-Campaign-Analysis/blob/main/SuperstoreFindings_PowerBI.pdf) |
+| Asset | Description | Link |
+| :--- | :--- | :---: |
+| 📊 **Cleaned Dataset** | Cleaned customer transaction data used for analysis | [Open Dataset](https://github.com/ravikumar196/Capstone-Project-Superstore-Gold-Membership-Campaign-Analysis/blob/main/Cleaned_SuperStore_Data.csv) |
+| 🐍 **Python Work** | Notebook containing data cleaning, statistics, and ML modeling | [Open Notebook](https://github.com/ravikumar196/Superstore_Marketing_Campaign_Analysis/blob/main/Superstore_Marketing_CampaignAnalysis.ipynb) |
+| 📊 **Power BI File** | Interactive dashboard file tracking sales and campaigns | [Open Dashboard](https://github.com/ravikumar196/Capstone-Project-Superstore-Gold-Membership-Campaign-Analysis/blob/main/SuperStoreData_Dashboard_R!.pbix) |
+| 📸 **Dashboard PDF** | Multi-page PDF printout of the full dashboard design | [View PDF](https://github.com/ravikumar196/Capstone-Project-Superstore-Gold-Membership-Campaign-Analysis/blob/main/Dashboard%20Screenshots.pdf) |
+| 📄 **Findings Report** | Executive summary breakdown of business insights | [Read Report](https://github.com/ravikumar196/Capstone-Project-Superstore-Gold-Membership-Campaign-Analysis/blob/main/SuperstoreFindings_PowerBI.pdf) |
 
 ---
 
@@ -62,38 +62,23 @@ This end-to-end marketing analytics project evaluates the effectiveness of a Gol
 
 ### C. Product & Revenue Analysis
 
-| Evaluation Category                  | Top Performing Segment | Business Insight                                                   |
-| :----------------------------------- | :--------------------- | :----------------------------------------------------------------- |
-| 🏆 Highest Spending Product Category | Wine Products          | Primary revenue driver and strongest indicator of customer loyalty |
-| 🥩 Second Highest Spending Category  | Meat Products          | Consistently contributes to high customer lifetime value           |
-| 🌐 Best Digital Conversion Segment   | Web Purchasers         | Highest campaign acceptance and online engagement rates            |
-| 💰 Highest Value Customer Group      | High-Income Customers  | Most likely to respond positively to premium membership offers     |
+| Evaluation Category                  | Top Performing Segment |
+| :----------------------------------- | :--------------------- |
+| 🏆 Highest Spending Product Category | Wine Products          |
+| 🥩 Second Highest Spending Category  | Meat Products          |
+| 🌐 Best Digital Conversion Segment   | Web Purchasers         |
+| 💰 Highest Value Customer Group      | High-Income Customers  |
 
 **Key Observation:** Wine and Meat products collectively contribute approximately **85% of total product spending**, highlighting premium-product customers as the most valuable membership prospects.
 
 ---
 
-## 🎯 5. Statistical Analysis & Predictive Modeling
-
-### Hypothesis Testing
-
-Statistical testing was conducted to determine whether significant differences exist between membership responders and non-responders across spending behavior, income levels, and purchasing activity.
-
-### Logistic Regression Model
-
-A predictive logistic regression model was developed to identify factors influencing Gold Membership acceptance. Key predictive variables included:
-
-* Customer Income
-* Recency
-* Web Purchases
-* Product Spending
-* Campaign Interactions
-
-The model helps marketing teams identify customers with the highest probability of future membership conversion.
-
+## 🎯 5. Statistical Modeling
+* **Hypothesis Testing:** Run to mathematically prove the spending behavioral differences between campaign responders and non-responders.
+* **Predictive Model:** Built a **Logistic Regression model** using variables like *Income*, *Recency*, and *Web Purchases* to predict which customers have the highest likelihood of accepting a membership offer next.
 ---
 
-## 🚀 Business Recommendations
+## 🚀6. Business Recommendations
 
 | Recommendation | Objective |
 |---------------|-----------|
